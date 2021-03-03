@@ -1,1 +1,1 @@
-a = 0 and b = 0
+a = 0 and b = 0 and c = 1
